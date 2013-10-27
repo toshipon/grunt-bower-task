@@ -34,7 +34,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "bower": "~1.2.0",
+    "bower": "https://github.com/toshipon/bower.git#b05cd337ce5a63ba2a2a3ae2f23c9b28f6423ac1",
     "lodash": "~0.10.0",
     "rimraf": "~2.0.2",
     "wrench": "~1.4.3",
